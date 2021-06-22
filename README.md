@@ -34,6 +34,7 @@ pip install datetime
 ## Usage
 
 ```python
+Change the apiurl variable to your personal api key from openweathermap.org
 Run main.py and a gui will display. After, press the start speech button and begin saying a city name.
 ```
 
