@@ -2,7 +2,7 @@
 
 Tell the weather using speech input. This project utilizes the openweathermap.org api and google speech recognition. The weather will be displayed through an application after an activate speech button is pressed. This application displays some information such as:
 
-```python
+```bash
 Advised clothing
 User's local time
 Temperature in Celsius/Fahrenheit
@@ -33,7 +33,7 @@ pip install datetime
 
 ## Usage
 
-```python
+```bash
 Change the apiurl variable to your personal api key from openweathermap.org
 Run main.py and a gui will display. After, press the start speech button and begin saying a city name.
 ```
