@@ -33,9 +33,13 @@ pip install datetime
 ## Usage
 
 ```bash
-Change the apiurl variable to your personal api key from openweathermap.org
-Run main.py and a gui will display. After, press the start speech button and begin saying a city name.
+Change the apiurl variable to your personal api key from openweathermap.org. Execute the code from terminal and press the button to begin the speech recognition process.
 ```
+
+```
+python main.py 
+```
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
